@@ -1,0 +1,7 @@
+CpfValidatorService/
+│
+├─ __init__.py           # Código principal da Azure Function
+├─ function.json         # Configuração da trigger HTTP
+├─ requirements.txt      # Dependências do Python
+├─ README.md             # Descrição do projeto
+└─ .gitignore            # Ignorar arquivos desnecessários
